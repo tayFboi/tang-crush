@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'may th lon',
-    introDesc: `djt me tui m,
+    introDesc: `djt me tui m`,
     btnIntro: 'nhan vo day',
     title: 'dak dak',
     desc: 'hay chon 1 cai minh thay đúng :)) ',
